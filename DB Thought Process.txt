@@ -1,0 +1,41 @@
+User: Joe		1
+User: Nick		2
+Book: Hunger Games	1
+Book: The Giver		2
+
+TAG
+Joes votes for Dystopian and Battle Royale
+Nick votes for Dystopian and Child's Perspective
+Hunger Games is Dystopian and Battle Royale
+The Giver is Dystopian and Child's Perspective
+Dystopian		1
+Battle Royale		2
+Child's Perspective	3
+
+GENRE
+Joe votes for Romance and SCIFI
+Hunger Games is Romance and SCIFI
+Romance			1
+SCIFI			2
+
+
+MATURITY
+Joe votes for 6/10
+Nick votes for 3/10
+Hunger Games is 4.5/10
+6/10			1
+3/10			2
+
+
+REVIEW
+Joe gives a positive review and rate 8/10, published today
+Nick gives a neutral review and rates 5/10, pulished yesterday
+Hunger Games has a review for 8/10
+Hunger Games has a review for 5/10
+Hunger Games is a 6.5/10
+Joe gives a spunky review and rates 9/10, published 2 days ago
+The Giver has a review for 9/10
+The Giver is a 9/10
+positive with 8/10, published today		1
+neutral with 5/10, published yesterday		2
+spunky with 9/10, published 2 days ago		3
